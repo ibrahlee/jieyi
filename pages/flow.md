@@ -1,22 +1,16 @@
--
-- ## Prolonging Flow
-  
-  Low-stimulation breaks extend flow sessions beyond 45 minutes by preserving attention quality. Activities like walking, stretching, or staring at a wall for 2-3 minutes reduce dopamine less than work, allowing quick re-entry into flow.youtube​
-- ## Recovery vs. Relaxation
-  
-  Recovery rejuvenates the nervous system and clears allostatic load, measurable via heart rate variability. Relaxation, like TV with snacks, may not recover you, while an ice bath can despite discomfort
+## Recovery vs. Relaxation
+
+Recovery rejuvenates the nervous system and clears allostatic load, measurable via heart rate variability. Relaxation, like TV with snacks, may not recover you, while an ice bath can despite discomfort
 - ## Purpose as Focus
   
   Purpose anchors attention short- and long-term, resisting shiny objects unlike extrinsic rewards (money, fame). To find it, pick a problem and make solving it your purpose
 - ## Avoiding Dispersion
   
-  Dispersion scatters cognition across goals, requiring constant "what to work on?" decisions. A single core focus eliminates this, boosting productive sliding into tasks.youtube​
+  Dispersion scatters cognition across goals, requiring constant "what to work on?" decisions. A single core focus eliminates this, boosting productive sliding into tasks
 - ## Eliminate, Don't Optimize
   
-  Avoid "dumb optimization" like perfecting hangovers or commutes—instead eliminate them entirely.youtube​
-- ## Building Flow Stamina
-  
-  Attention span stretching (e.g., reading a 6-7 hour book unbroken) builds flow endurance, similar to fitness transformations.youtube​
+  Avoid "dumb optimization" like perfecting hangovers or commutes—instead eliminate them entirely
+-
 - ## Reward Sensitivity
   
   Mastering "doing nothing" heightens dopamine sensitivity, making boring tasks rewarding and enabling tolerance for long flow blocks.youtube​
