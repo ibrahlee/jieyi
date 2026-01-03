@@ -31,9 +31,4 @@ Recovery rejuvenates the nervous system and clears allostatic load, measurable v
   Master people (hires), process (automation), and proficiency (skills/knowledge) for exponential gains.youtube​
 - ## Reverse Morning Routine
   
-  Start work immediately upon waking when brain waves and low cognitive load favor flow; do routines (exercise, breathwork) after a 3-hour block to re-prime.youtube​
-  
-  添加到后续问题
-  
-  检查来源
-- [https://www.youtube.com/watch?v=soGR3K4PUcw](https://www.youtube.com/watch?v=soGR3K4PUcw)
+  Start work immediately upon waking when brain waves and low cognitive load favor flow; do routines (exercise, breathwork) after a 3-hour block to re-prime
