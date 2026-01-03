@@ -2,15 +2,12 @@
 - ## Prolonging Flow
   
   Low-stimulation breaks extend flow sessions beyond 45 minutes by preserving attention quality. Activities like walking, stretching, or staring at a wall for 2-3 minutes reduce dopamine less than work, allowing quick re-entry into flow.youtube​
-- ## Flow Cycle Stages
-  
-  The flow cycle includes struggle (norepinephrine/cortisol spike), release (transition to flow), flow itself, and recovery as the vital fourth stage. Better recovery accelerates cycles, enabling more high-priority flow time.youtube​
 - ## Recovery vs. Relaxation
   
-  Recovery rejuvenates the nervous system and clears allostatic load, measurable via heart rate variability. Relaxation, like TV with snacks, may not recover you, while an ice bath can despite discomfort.youtube​
+  Recovery rejuvenates the nervous system and clears allostatic load, measurable via heart rate variability. Relaxation, like TV with snacks, may not recover you, while an ice bath can despite discomfort
 - ## Purpose as Focus
   
-  Purpose anchors attention short- and long-term, resisting shiny objects unlike extrinsic rewards (money, fame). To find it, pick a problem and make solving it your purpose, as Doris did with flow research for 14 years.youtube​
+  Purpose anchors attention short- and long-term, resisting shiny objects unlike extrinsic rewards (money, fame). To find it, pick a problem and make solving it your purpose
 - ## Avoiding Dispersion
   
   Dispersion scatters cognition across goals, requiring constant "what to work on?" decisions. A single core focus eliminates this, boosting productive sliding into tasks.youtube​
