@@ -13,7 +13,7 @@ Recovery rejuvenates the nervous system and clears allostatic load, measurable v
 -
 - ## Reward Sensitivity
   
-  Mastering "doing nothing" heightens dopamine sensitivity, making boring tasks rewarding and enabling tolerance for long flow blocks.youtube​
+  Mastering "doing nothing" heightens dopamine sensitivity, making boring tasks rewarding and enabling tolerance for long flow blocks
 - ## Phone Discipline
   
   Phone use dumbs you down via addictive UX; prioritize "flow before phone" with 3 distraction-free hours on top work first.youtube​
